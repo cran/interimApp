@@ -1,0 +1,13 @@
+bc94e7bde6b3695596c52a259f8cf501 *DESCRIPTION
+7fb5caecee04a7ed3acdc7b138b169b6 *NAMESPACE
+f1455cfe50be395aeb9b97f3c6ddc0b2 *R/centerPlot.R
+69c65ed82c07c366006570bc1f50809f *R/eventPlot.R
+6bd00dfca6809d2d18b27348caff2f7e *R/launch_interim.R
+7287e156472ec2a93e17512ce3b1da82 *R/treatmentPlot.R
+18fedebc853c3677835f5a104bf5c68e *R/zzz.R
+350d0c5f2a1e15ec5366eafbf058f542 *inst/www/Logo.png
+b4180de646297db1d308efbc9a50e264 *inst/www/Thumbs.db
+c91a4f4f7e50601f20bd00c7342c1dd2 *man/centerPlot.Rd
+a0c286f6a413e07b599f6e040d6c4b06 *man/eventPlot.Rd
+93e1b3c23b61a9ae1eac9805ddd8de3f *man/launch_interim.Rd
+9399bafb76149d2523bb69ee2673e9ec *man/treatmentPlot.Rd
